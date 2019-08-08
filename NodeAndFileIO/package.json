@@ -1,0 +1,14 @@
+{
+  "name": "nodeandfileio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "visitorlog.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
